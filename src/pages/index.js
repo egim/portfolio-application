@@ -1,3 +1,11 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+export default () => (
+  <p>
+    Developer
+    <span>
+      Ed Gim
+    </span>
+    Javascript, CSS, Ruby on Rails, Design
+  </p>
+)
