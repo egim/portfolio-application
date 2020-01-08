@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   Portfolio Application
 </h1>
 
